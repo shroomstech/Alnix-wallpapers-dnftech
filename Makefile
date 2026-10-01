@@ -1,3 +1,3 @@
 install:
-	mkdir -p $(HOME)/.wallpapers
-	mv *.png $(HOME)/.wallpapers/
+	mkdir -p /home/$(HOME)/.wallpapers
+	mv *.png /home/$(HOME)/.wallpapers/
